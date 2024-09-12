@@ -2,9 +2,9 @@
 
 Prazer, sou Diego:
 
-- 🌱 Estudante de Engenharia de Computação (FURG)
+- 🌱 Engenheiro de Computação (FURG)
 - 🌱 Em processo contínuo de aprendizagem
-- 🔭 Engenheiro de dados Pleno (Anota Aí)
+- 🔭 Engenheiro de Dados (Anota Aí)
 - 🏍️ Com minha 883, desenvolvendo por aí
 
 
